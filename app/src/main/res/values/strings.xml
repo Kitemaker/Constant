@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Constant</string>
+
+    <string name="hello_world">Select Subject</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_physics">Physics</string>
+    <string name="action_chemistry">Chemistry</string>
+    <string name="action_maths">Mathematics</string>
+    <string name="title_activity_detail">DetailActivity</string>
+</resources>
