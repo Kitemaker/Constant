@@ -24,6 +24,14 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.eilabs.constant.MainActivity" />
         </activity>
+        <activity
+            android:name=".ConstDetailActivity"
+            android:label="@string/title_activity_const_detail"
+            android:parentActivityName=".DetailActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.eilabs.constant.DetailActivity" />
+        </activity>
     </application>
 
 </manifest>

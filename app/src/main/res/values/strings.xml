@@ -7,4 +7,5 @@
     <string name="action_chemistry">Chemistry</string>
     <string name="action_maths">Mathematics</string>
     <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_const_detail">ConstDetailActivity</string>
 </resources>
