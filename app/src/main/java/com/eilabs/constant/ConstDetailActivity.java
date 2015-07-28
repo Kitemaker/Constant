@@ -1,11 +1,14 @@
 package com.eilabs.constant;
 
+import android.app.Activity;
 import android.content.Intent;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.TextView;
+
+import java.util.Iterator;
 
 
 public class ConstDetailActivity extends ActionBarActivity {
@@ -15,10 +18,14 @@ public class ConstDetailActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_const_detail);
         Intent intent = getIntent();
-        String message = intent.getStringExtra(DetailActivity.EXTRA_MESSAGE_DETAIL);
+        String itemDetails = intent.getStringExtra(DetailActivity.EXTRA_MESSAGE_DETAIL);
+        setItemDetails(itemDetails);
+    }
 
-        TextView tview =(TextView)findViewById(R.id.consText);
-        tview.setText(message);
+    private void setItemDetails(String itemDetails)
+    {
+        TextView tview = (TextView)findViewById(R.id.consText);
+        tview.setText(itemDetails);
     }
 
     @Override

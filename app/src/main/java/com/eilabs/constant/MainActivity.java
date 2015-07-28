@@ -1,6 +1,7 @@
 package com.eilabs.constant;
 
 import android.content.Intent;
+import android.content.res.Resources;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
@@ -19,8 +20,8 @@ public class MainActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-
-    }
+        Resources res=getResources();
+            }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
@@ -46,8 +47,8 @@ public class MainActivity extends ActionBarActivity {
 
     public void btnPhysicsClicked(View view)
 
-    { Intent intent =new Intent(this,DetailActivity.class);
-       // EditText edittext=(EditText)findViewById(R.id.edit_message);
+    {
+        Intent intent =new Intent(this,DetailActivity.class);
         String message = getString(R.string.action_physics);
         intent.putExtra(EXTRA_MESSAGE, message);
         startActivity(intent);

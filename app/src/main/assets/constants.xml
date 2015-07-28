@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<constants>
+        <constant id="1000" name= "Characteristic impedance of vacuum" symbol="ε0" unit="ohm">376.730</constant>
+        <constant id="1002" name= "A" value="3" unit="ohm">10</constant>
+        <constant id="1003" name= "B" value="4" unit="ohm">20</constant>
+        <constant id="1004" name= "C" value="5" unit="ohm">30</constant>
+        <constant id="1005" name= "D" value="6" unit="ohm">40</constant>
+        <constant id="1006" name= "E" value="7" unit="ohm">50</constant>
+        <constant id="1007" name= "F" value="8" unit="ohm">60</constant>
+        <constant id="1008" name= "G" value="9" unit="ohm">70</constant>
+</constants>

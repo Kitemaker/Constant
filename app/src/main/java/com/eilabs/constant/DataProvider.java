@@ -17,7 +17,7 @@ public class DataProvider {
 
         data.add(new ConstItem(10001, "Pi", "3.141"));
 
-        data.add(new ConstItem(10002, "G", "6.67"));
+        data.add(new ConstItem(10002, "ε", "6.67"));
 
         data.add(new ConstItem(10003, "Plank Constant", "."));
 
