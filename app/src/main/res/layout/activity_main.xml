@@ -11,29 +11,37 @@
 
     <Button
         android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="60dp"
         android:text="@string/action_physics"
         android:id="@+id/btnPhysics"
-        android:layout_alignParentStart="false"
+        android:layout_alignParentStart="true"
         android:layout_above="@+id/btnChem"
-        android:onClick="btnPhysicsClicked"/>
+        android:onClick="btnPhysicsClicked"
+        android:background="@android:color/holo_blue_dark"
+        android:layout_marginTop="4dp"
+        android:layout_marginBottom="4dp" />
 
     <Button
         android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="60dp"
         android:text="@string/action_chemistry"
         android:id="@+id/btnChem"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:layout_centerVertical="true" />
+        android:layout_centerVertical="true"
+        android:background="@android:color/holo_blue_dark"
+        android:layout_marginTop="4dp"
+        android:layout_marginBottom="4dp" />
 
     <Button
         android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="60dp"
         android:text="@string/action_maths"
         android:id="@+id/btnMaths"
         android:layout_below="@+id/btnChem"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentStart="true"
+        android:background="@android:color/holo_blue_dark"
+        android:layout_marginTop="4dp" />
 
 </RelativeLayout>

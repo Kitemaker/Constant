@@ -5,7 +5,6 @@ import android.content.res.AssetManager;
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
 import android.util.Log;
-import android.util.Xml;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -15,7 +14,6 @@ import android.widget.ListView;
 import android.widget.Toast;
 
 import org.xmlpull.v1.XmlPullParser;
-import org.xmlpull.v1.XmlPullParserException;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -37,7 +35,7 @@ public class DetailActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         entries=new ArrayList<Entry>();
         setContentView(R.layout.activity_detail);
-       // final List<ConstItem> datalist = DataProvider.getData();
+
         readData();
         ArrayAdapter<Entry> courseArrayAdapter = new ArrayAdapter<Entry>(this, android.R.layout.simple_expandable_list_item_1, entries);
         final ListView listView = (ListView) findViewById(android.R.id.list);
@@ -50,7 +48,7 @@ public class DetailActivity extends ActionBarActivity {
                 itemClicked = (Entry) listView.getItemAtPosition(position);
                 Toast.makeText(getBaseContext(), itemClicked.getName(), Toast.LENGTH_SHORT).show();
 
-                showConstantDetails(itemClicked.getID() + ";" + itemClicked.getName() + ";" + itemClicked.getValue());
+                showConstantDetails(itemClicked.getID()+";"+ itemClicked.getName() + ";" + itemClicked.getValue() + ";" + itemClicked.getUnit());
             }
         });
     }
@@ -78,7 +76,7 @@ public class DetailActivity extends ActionBarActivity {
 
     private  void showConstantDetails(String itemDetails)
     {
-        Intent intent =new Intent(this,ConstDetailActivity.class);
+        Intent intent =new Intent(this,ConstItemActivity.class);
         intent.putExtra(EXTRA_MESSAGE_DETAIL, itemDetails);
         startActivity(intent);
     }
@@ -87,9 +85,9 @@ public class DetailActivity extends ActionBarActivity {
     {
         AssetManager amr=getAssets();
         try {
-            inStream = amr.open("constants.xml");
+            inStream = amr.open("Constants.txt");
             ConsSaxParser parser=new ConsSaxParser();
-            parser.ReadData(inStream,entries);
+            parser.ReadTextData(inStream,entries);
         } catch (IOException e) {
             Log.e("tag", e.getMessage());
         }

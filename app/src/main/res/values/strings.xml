@@ -7,4 +7,6 @@
     <string name="action_maths">Mathematics</string>
     <string name="title_activity_detail">DetailActivity</string>
     <string name="title_activity_const_detail">ConstDetailActivity</string>
+    <string name="textLabelValue">Value</string>
+    <string name="textLabelUnit">Unit</string>
 </resources>

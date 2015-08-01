@@ -25,7 +25,7 @@
                 android:value="com.eilabs.constant.MainActivity" />
         </activity>
         <activity
-            android:name=".ConstDetailActivity"
+            android:name=".ConstItemActivity"
             android:label="@string/title_activity_const_detail"
             android:parentActivityName=".DetailActivity">
             <meta-data

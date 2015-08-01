@@ -35,10 +35,21 @@ public class Entry {
         public  String Name;
         public  String Value;
 
-        public Entry(String id, String name, String value) {
+    public String getUnit() {
+        return Unit;
+    }
+
+    public void setUnit(String unit) {
+        Unit = unit;
+    }
+
+    public String Unit;
+
+        public Entry(String id, String name, String value,String unit) {
             this.ID = id;
             this.Name = name;
             this.Value = value;
+            this.Unit=unit;
         }
     @Override
     public String toString() {
