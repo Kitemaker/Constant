@@ -1,24 +1,24 @@
 1001	;	lattice spacing of silicon  	;	  192.015 5714 10-12 	;	  m
-1002	;	alpha particle-electron mass ratio 	;	  7294.299 541 36    	;	
+1002	;	alpha particle-electron mass ratio 	;	  7294.299 541 36    	;
 1003	;	alpha particle mass    	;	  6.644 657 230 10-27    	;	  kg
 1004	;	alpha particle mass energy equivalent  	;	  5.971 920 097 10-10    	;	  J
 1005	;	alpha particle mass energy equivalent in MeV   	;	  3727.379 378   	;	  MeV
 1006	;	alpha particle mass in u   	;	  4.001 506 179 127  	;	  u
 1007	;	alpha particle molar mass  	;	  4.001 506 179 127 10-3 	;	  kg mol^-1
-1008	;	alpha particle-proton mass ratio   	;	  3.972 599 689 07   	;	
-1009	;	Angstrom star  	;	  1.000 014 95 10-10 	;	  m
-1010	;	atomic mass constant   	;	  1.660 539 040 10-27    	;	  kg
-1011	;	atomic mass constant energy equivalent 	;	  1.492 418 062 10-10    	;	  J
-1012	;	atomic mass constant energy equivalent in MeV  	;	  931.494 0954   	;	  MeV
-1013	;	atomic mass unit-electron volt relationship    	;	  931.494 0954 106   	;	  eV
+1008	;	alpha particle-proton mass ratio   	;	  3.972 599 689 07   	;
+1009	;	Angstrom star  	;	  1.000 014 95 x 10<sup>-10</sup> 	;	  m
+1010	;atomic mass constant   	;	  1.660539040 x 10<sup>-27</sup>    	;	  kg
+1011	;atomic mass constant energy equivalent 	;	  1.492418062 x 10<sup>-10</sup>   	;	  J
+1012	;atomic mass constant energy equivalent in MeV  	;	  931.494  	;	  MeV
+1013	;atomic mass unit-electron volt relationship    	;	  931.494<sup>6</sup> 	;	  eV
 1014	;	atomic mass unit-hartree relationship  	;	  3.423 177 6902 107 	;	  E_h
 1015	;	atomic mass unit-hertz relationship    	;	  2.252 342 7206 1023    	;	  Hz
 1016	;	atomic mass unit-inverse meter relationship    	;	  7.513 006 6166 1014    	;	  m^-1
-1017	;	atomic mass unit-joule relationship    	;	  1.492 418 062 10-10    	;	  J
-1018	;	atomic mass unit-kelvin relationship   	;	  1.080 954 38 1013  	;	  K
-1019	;	atomic mass unit-kilogram relationship 	;	  1.660 539 040 10-27    	;	  kg
-1020	;	atomic unit of 1st hyperpolarizability 	;	  3.206 361 329 10-53    	;	  C^3 m^3 J^-2
-1021	;	atomic unit of 2nd hyperpolarizability 	;	  6.235 380 085 10-65    	;	  C^4 m^4 J^-3
+1017	;	atomic mass unit-joule relationship    	;	  1.492 418 062 10<sup>-10</sup>    	;	  J
+1018	;	atomic mass unit-kelvin relationship   	;	  1.080 954 38 10<sup>13</sup>  	;	  K
+1019	;	atomic mass unit-kilogram relationship 	;	  1.660 539 040x 10<sup>-27</sup>    	;	  kg
+1020	;	atomic unit of 1st hyperpolarizability 	;	  3.206 361 329x 10<sup>-53</sup>   	;	  C^3 m^3 J^-2
+1021	;	atomic unit of 2nd hyperpolarizability 	;	  6.235 380 085 x 10<sup>-65</sup>   	;	  C^4 m^4 J^-3
 1022	;	atomic unit of action  	;	  1.054 571 800 10-34    	;	  J s
 1023	;	atomic unit of charge  	;	  1.602 176 6208 10-19   	;	  C
 1024	;	atomic unit of charge density  	;	  1.081 202 3770 1012    	;	  C m^-3
@@ -59,49 +59,49 @@
 1059	;	conventional value of Josephson constant   	;	  483 597.9 109  	;	  Hz V^-1
 1060	;	conventional value of von Klitzing constant    	;	  25 812.807 	;	  ohm
 1061	;	Cu x unit  	;	  1.002 076 97 10-13 	;	  m
-1062	;	deuteron-electron mag. mom. ratio  	;	  -4.664 345 535 10-4    	;	
-1063	;	deuteron-electron mass ratio   	;	  3670.482 967 85    	;	
-1064	;	deuteron g factor  	;	  0.857 438 2311 	;	
+1062	;	deuteron-electron mag. mom. ratio  	;	  -4.664 345 535 10-4    	;
+1063	;	deuteron-electron mass ratio   	;	  3670.482 967 85    	;
+1064	;	deuteron g factor  	;	  0.857 438 2311 	;
 1065	;	deuteron mag. mom. 	;	  0.433 073 5040 10-26   	;	  J T^-1
-1066	;	deuteron mag. mom. to Bohr magneton ra 	;	  0.466 975 4554 10-3    	;	
-1067	;	deuteron mag. mom. to nuclear magnetonratio    	;	  0.857 438 2311 	;	
+1066	;	deuteron mag. mom. to Bohr magneton ra 	;	  0.466 975 4554 10-3    	;
+1067	;	deuteron mag. mom. to nuclear magnetonratio    	;	  0.857 438 2311 	;
 1068	;	deuteron mass  	;	  3.343 583 719 10-27    	;	  kg
 1069	;	deuteron mass energy equivalent    	;	  3.005 063 183 10-10    	;	  J
 1070	;	deuteron mass energy equivalent in MeV 	;	  1875.612 928   	;	  MeV
 1071	;	deuteron mass in u 	;	  2.013 553 212 745  	;	  u
 1072	;	deuteron molar mass    	;	  2.013 553 212 745 10-3 	;	  kg mol^-1
-1073	;	deuteron-neutron mag. mom. ratio   	;	  -0.448 206 52  	;	
-1074	;	deuteron-proton mag. mom. ratio    	;	  0.307 012 2077 	;	
-1075	;	deuteron-proton mass ratio 	;	  1.999 007 500 87   	;	
+1073	;	deuteron-neutron mag. mom. ratio   	;	  -0.448 206 52  	;
+1074	;	deuteron-proton mag. mom. ratio    	;	  0.307 012 2077 	;
+1075	;	deuteron-proton mass ratio 	;	  1.999 007 500 87   	;
 1076	;	deuteron rms charge radius 	;	  2.1413 10-15   	;	  m
 1077	;	electric constant  	;	  8.854 187 817... 10-12 	;	  F m^-1
 1078	;	electron charge to mass quotient   	;	  -1.758 820 024 1011    	;	  C kg^-1
-1079	;	electron-deuteron mag. mom. ratio  	;	  -2143.923 499  	;	
-1080	;	electron-deuteron mass ratio   	;	  2.724 437 107 484 10-4 	;	
-1081	;	electron g factor  	;	  -2.002 319 304 361 82  	;	
+1079	;	electron-deuteron mag. mom. ratio  	;	  -2143.923 499  	;
+1080	;	electron-deuteron mass ratio   	;	  2.724 437 107 484 10-4 	;
+1081	;	electron g factor  	;	  -2.002 319 304 361 82  	;
 1082	;	electron gyromag. ratio    	;	  1.760 859 644 1011 	;	  s^-1 T^-1
 1083	;	electron gyromag. ratio over 2 pi  	;	  28 024.951 64  	;	  MHz T^-1
-1084	;	electron-helion mass ratio 	;	  1.819 543 074 854 10-4 	;	
+1084	;	electron-helion mass ratio 	;	  1.819 543 074 854 10-4 	;
 1085	;	electron mag. mom. 	;	  -928.476 4620 10-26    	;	  J T^-1
-1086	;	electron mag. mom. anomaly 	;	  1.159 652 180 91 10-3  	;	
-1087	;	electron mag. mom. to Bohr magneton ratio  	;	  -1.001 159 652 180 91  	;	
-1088	;	electron mag. mom. to nuclear magnetonratio    	;	  -1838.281 972 34   	;	
+1086	;	electron mag. mom. anomaly 	;	  1.159 652 180 91 10-3  	;
+1087	;	electron mag. mom. to Bohr magneton ratio  	;	  -1.001 159 652 180 91  	;
+1088	;	electron mag. mom. to nuclear magnetonratio    	;	  -1838.281 972 34   	;
 1089	;	electron mass  	;	  9.109 383 56 10-31 	;	  kg
 1090	;	electron mass energy equivalent    	;	  8.187 105 65 10-14 	;	  J
 1091	;	electron mass energy equivalent in MeV 	;	  0.510 998 9461 	;	  MeV
 1092	;	electron mass in u 	;	  5.485 799 090 70 10-4  	;	  u
 1093	;	electron molar mass    	;	  5.485 799 090 70 10-7  	;	  kg mol^-1
-1094	;	electron-muon mag. mom. ratio  	;	  206.766 9880   	;	
-1095	;	electron-muon mass ratio   	;	  4.836 331 70 10-3  	;	
-1096	;	electron-neutron mag. mom. ratio   	;	  960.920 50 	;	
-1097	;	electron-neutron mass ratio    	;	  5.438 673 4428 10-4    	;	
-1098	;	electron-proton mag. mom. ratio    	;	  -658.210 6866  	;	
-1099	;	electron-proton mass ratio 	;	  5.446 170 213 52 10-4  	;	
-1100	;	electron-tau mass ratio    	;	  2.875 92 10-4  	;	
-1101	;	electron to alpha particle mass ratio  	;	  1.370 933 554 798 10-4 	;	
-1102	;	electron to shielded helion mag. Mom ratio 	;	  864.058 257    	;	
-1103	;	electron to shielded proton mag. mom. Ratio    	;	  -658.227 5971  	;	
-1104	;	electron-triton mass ratio 	;	  1.819 200 062 203 10-4 	;	
+1094	;	electron-muon mag. mom. ratio  	;	  206.766 9880   	;
+1095	;	electron-muon mass ratio   	;	  4.836 331 70 10-3  	;
+1096	;	electron-neutron mag. mom. ratio   	;	  960.920 50 	;
+1097	;	electron-neutron mass ratio    	;	  5.438 673 4428 10-4    	;
+1098	;	electron-proton mag. mom. ratio    	;	  -658.210 6866  	;
+1099	;	electron-proton mass ratio 	;	  5.446 170 213 52 10-4  	;
+1100	;	electron-tau mass ratio    	;	  2.875 92 10-4  	;
+1101	;	electron to alpha particle mass ratio  	;	  1.370 933 554 798 10-4 	;
+1102	;	electron to shielded helion mag. Mom ratio 	;	  864.058 257    	;
+1103	;	electron to shielded proton mag. mom. Ratio    	;	  -658.227 5971  	;
+1104	;	electron-triton mass ratio 	;	  1.819 200 062 203 10-4 	;
 1105	;	electron volt  	;	  1.602 176 6208 10-19   	;	  J
 1106	;	electron volt-atomic mass unit relationship    	;	  1.073 544 1105 10-9    	;	  u
 1107	;	electron volt-hartree relationship 	;	  3.674 932 248 10-2 	;	  E_h
@@ -115,7 +115,7 @@
 1115	;	Faraday constant   	;	  96 485.332 89  	;	  C mol^-1
 1116	;	Faraday constant for conventional electric current 	;	  96 485.3251    	;	  C_90 mol^-1
 1117	;	Fermi coupling constant    	;	  1.166 3787 10-5    	;	  GeV^-2
-1118	;	fine-structure constant    	;	  7.297 352 5664 10-3    	;	
+1118	;	fine-structure constant    	;	  7.297 352 5664 10-3    	;
 1119	;	first radiation constant   	;	  3.741 771 790 10-16    	;	  W m^2
 1120	;	first radiation constant for spectral radiance 	;	  1.191 042 953 10-16    	;	  W m^2 sr^-1
 1121	;	hartree-atomic mass unit relationship  	;	  2.921 262 3197 10-8    	;	  u
@@ -127,17 +127,17 @@
 1127	;	hartree-joule relationship 	;	  4.359 744 650 10-18    	;	  J
 1128	;	hartree-kelvin relationship    	;	  3.157 7513 105 	;	  K
 1129	;	hartree-kilogram relationship  	;	  4.850 870 129 10-35    	;	  kg
-1130	;	helion-electron mass ratio 	;	  5495.885 279 22    	;	
-1131	;	helion g factor    	;	  -4.255 250 616 	;	
+1130	;	helion-electron mass ratio 	;	  5495.885 279 22    	;
+1131	;	helion g factor    	;	  -4.255 250 616 	;
 1132	;	helion mag. mom.   	;	  -1.074 617 522 10-26   	;	  J T^-1
-1133	;	helion mag. mom. to Bohr magneton rati0    	;	  -1.158 740 958 10-3    	;	
-1134	;	helion mag. mom. to nuclear magneton ratio 	;	  -2.127 625 308 	;	
+1133	;	helion mag. mom. to Bohr magneton rati0    	;	  -1.158 740 958 10-3    	;
+1134	;	helion mag. mom. to nuclear magneton ratio 	;	  -2.127 625 308 	;
 1135	;	helion mass    	;	  5.006 412 700 10-27    	;	  kg
 1136	;	helion mass energy equivalent  	;	  4.499 539 341 10-10    	;	  J
 1137	;	helion mass energy equivalent in MeV   	;	  2808.391 586   	;	  MeV
 1138	;	helion mass in u   	;	  3.014 932 246 73   	;	  u
 1139	;	helion molar mass  	;	  3.014 932 246 73 10-3  	;	  kg mol^-1
-1140	;	helion-proton mass ratio   	;	  2.993 152 670 46   	;	
+1140	;	helion-proton mass ratio   	;	  2.993 152 670 46   	;
 1141	;	hertz-atomic mass unit relationship    	;	  4.439 821 6616 10-24   	;	  u
 1142	;	hertz-electron volt relationship   	;	  4.135 667 662 10-15    	;	  eV
 1143	;	hertz-hartree relationship 	;	  1.519 829 846 0088 10-16   	;	  E_h
@@ -145,7 +145,7 @@
 1145	;	hertz-joule relationship   	;	  6.626 070 040 10-34    	;	  J
 1146	;	hertz-kelvin relationship  	;	  4.799 2447 10-11   	;	  K
 1147	;	hertz-kilogram relationship    	;	  7.372 497 201 10-51    	;	  kg
-1148	;	inverse fine-structure constant    	;	  137.035 999 139    	;	
+1148	;	inverse fine-structure constant    	;	  137.035 999 139    	;
 1149	;	inverse meter-atomic mass unit relationship    	;	  1.331 025 049 00 10-15 	;	  u
 1150	;	inverse meter-electron volt relationship   	;	  1.239 841 9739 10-6    	;	  eV
 1151	;	inverse meter-hartree relationship 	;	  4.556 335 252 767 10-8 	;	  E_h
@@ -192,21 +192,21 @@
 1192	;	Mo x unit  	;	  1.002 099 52 10-13 	;	  m
 1193	;	muon Compton wavelength    	;	  11.734 441 11 10-15    	;	  m
 1194	;	muon Compton wavelength over 2 pi  	;	  1.867 594 308 10-15    	;	  m
-1195	;	muon-electron mass ratio   	;	  206.768 2826   	;	
-1196	;	muon g factor  	;	  -2.002 331 8418    	;	
+1195	;	muon-electron mass ratio   	;	  206.768 2826   	;
+1196	;	muon g factor  	;	  -2.002 331 8418    	;
 1197	;	muon mag. mom. 	;	  -4.490 448 26 10-26    	;	  J T^-1
-1198	;	muon mag. mom. anomaly 	;	  1.165 920 89 10-3  	;	
-1199	;	muon mag. mom. to Bohr magneton ratio  	;	  -4.841 970 48 10-3 	;	
-1200	;	muon mag. mom. to nuclear magneton ratio   	;	  -8.890 597 05  	;	
+1198	;	muon mag. mom. anomaly 	;	  1.165 920 89 10-3  	;
+1199	;	muon mag. mom. to Bohr magneton ratio  	;	  -4.841 970 48 10-3 	;
+1200	;	muon mag. mom. to nuclear magneton ratio   	;	  -8.890 597 05  	;
 1201	;	muon mass  	;	  1.883 531 594 10-28    	;	  kg
 1202	;	muon mass energy equivalent    	;	  1.692 833 774 10-11    	;	  J
 1203	;	muon mass energy equivalent in MeV 	;	  105.658 3745   	;	  MeV
 1204	;	muon mass in u 	;	  0.113 428 9257 	;	  u
 1205	;	muon molar mass    	;	  0.113 428 9257 10-3    	;	  kg mol^-1
-1206	;	muon-neutron mass ratio    	;	  0.112 454 5167 	;	
-1207	;	muon-proton mag. mom. ratio    	;	  -3.183 345 142 	;	
-1208	;	muon-proton mass ratio 	;	  0.112 609 5262 	;	
-1209	;	muon-tau mass ratio    	;	  5.946 49 10-2  	;	
+1206	;	muon-neutron mass ratio    	;	  0.112 454 5167 	;
+1207	;	muon-proton mag. mom. ratio    	;	  -3.183 345 142 	;
+1208	;	muon-proton mass ratio 	;	  0.112 609 5262 	;
+1209	;	muon-tau mass ratio    	;	  5.946 49 10-2  	;
 1210	;	natural unit of action 	;	  1.054 571 800 10-34    	;	  J s
 1211	;	natural unit of action in eV s 	;	  6.582 119 514 10-16    	;	  eV s
 1212	;	natural unit of energy 	;	  8.187 105 65 10-14 	;	  J
@@ -219,28 +219,28 @@
 1219	;	natural unit of velocity   	;	  299 792 458    	;	  m s^-1
 1220	;	neutron Compton wavelength 	;	  1.319 590 904 81 10-15 	;	  m
 1221	;	neutron Compton wavelength over 2 pi   	;	  0.210 019 415 36 10-15 	;	  m
-1222	;	neutron-electron mag. mom. ratio   	;	  1.040 668 82 10-3  	;	
-1223	;	neutron-electron mass ratio    	;	  1838.683 661 58    	;	
-1224	;	neutron g factor   	;	  -3.826 085 45  	;	
+1222	;	neutron-electron mag. mom. ratio   	;	  1.040 668 82 10-3  	;
+1223	;	neutron-electron mass ratio    	;	  1838.683 661 58    	;
+1224	;	neutron g factor   	;	  -3.826 085 45  	;
 1225	;	neutron gyromag. ratio 	;	  1.832 471 72 108   	;	  s^-1 T^-1
 1226	;	neutron gyromag. ratio over 2 pi   	;	  29.164 6933    	;	  MHz T^-1
 1227	;	neutron mag. mom.  	;	  -0.966 236 50 10-26    	;	  J T^-1
-1228	;	neutron mag. mom. to Bohr magneton ratio   	;	  -1.041 875 63 10-3 	;	
-1229	;	neutron mag. mom. to nuclear magneton ratio    	;	  -1.913 042 73  	;	
+1228	;	neutron mag. mom. to Bohr magneton ratio   	;	  -1.041 875 63 10-3 	;
+1229	;	neutron mag. mom. to nuclear magneton ratio    	;	  -1.913 042 73  	;
 1230	;	neutron mass   	;	  1.674 927 471 10-27    	;	  kg
 1231	;	neutron mass energy equivalent 	;	  1.505 349 739 10-10    	;	  J
 1232	;	neutron mass energy equivalent in MeV  	;	  939.565 4133   	;	  MeV
 1233	;	neutron mass in u  	;	  1.008 664 915 88   	;	  u
 1234	;	neutron molar mass 	;	  1.008 664 915 88 10-3  	;	  kg mol^-1
-1235	;	neutron-muon mass ratio    	;	  8.892 484 08   	;	
-1236	;	neutron-proton mag. mom. ratio 	;	  -0.684 979 34  	;	
-1237	;	neutron-proton mass difference 	;	  2.305 573 77 10-30 	;	
-1238	;	neutron-proton mass difference energy  equivalent  	;	  2.072 146 37 10-13 	;	
-1239	;	neutron-proton mass difference energy  equivalent in MeV   	;	  1.293 332 05   	;	
-1240	;	neutron-proton mass difference in u    	;	  0.001 388 449 00   	;	
-1241	;	neutron-proton mass ratio  	;	  1.001 378 418 98   	;	
-1242	;	neutron-tau mass ratio 	;	  0.528 790  	;	
-1243	;	neutron to shielded proton mag. mom. Ratio 	;	  -0.684 996 94  	;	
+1235	;	neutron-muon mass ratio    	;	  8.892 484 08   	;
+1236	;	neutron-proton mag. mom. ratio 	;	  -0.684 979 34  	;
+1237	;	neutron-proton mass difference 	;	  2.305 573 77 10-30 	;
+1238	;	neutron-proton mass difference energy  equivalent  	;	  2.072 146 37 10-13 	;
+1239	;	neutron-proton mass difference energy  equivalent in MeV   	;	  1.293 332 05   	;
+1240	;	neutron-proton mass difference in u    	;	  0.001 388 449 00   	;
+1241	;	neutron-proton mass ratio  	;	  1.001 378 418 98   	;
+1242	;	neutron-tau mass ratio 	;	  0.528 790  	;
+1243	;	neutron to shielded proton mag. mom. Ratio 	;	  -0.684 996 94  	;
 1244	;	Newtonian constant of gravitation  	;	  6.674 08 10-11 	;	  m^3 kg^-1 s^-2
 1245	;	Newtonian constant of gravitation over h-bar c 	;	  6.708 61 10-39 	;	  (GeV/c^2)^-2
 1246	;	nuclear magneton   	;	  5.050 783 699 10-27    	;	  J T^-1
@@ -261,45 +261,45 @@
 1261	;	proton charge to mass quotient 	;	  9.578 833 226 107  	;	  C kg^-1
 1262	;	proton Compton wavelength  	;	  1.321 409 853 96 10-15 	;	  m
 1263	;	proton Compton wavelength over 2 pi    	;	  0.210 308 910 109 10-15    	;	  m
-1264	;	proton-electron mass ratio 	;	  1836.152 673 89    	;	
-1265	;	proton g factor    	;	  5.585 694 702  	;	
+1264	;	proton-electron mass ratio 	;	  1836.152 673 89    	;
+1265	;	proton g factor    	;	  5.585 694 702  	;
 1266	;	proton gyromag. ratio  	;	  2.675 221 900 108  	;	  s^-1 T^-1
 1267	;	proton gyromag. ratio over 2 pi    	;	  42.577 478 92  	;	  MHz T^-1
 1268	;	proton mag. mom.   	;	  1.410 606 7873 10-26   	;	  J T^-1
-1269	;	proton mag. mom. to Bohr magneton rati0    	;	  1.521 032 2053 10-3    	;	
-1270	;	proton mag. mom. to nuclear magneton ratio 	;	  2.792 847 3508 	;	
-1271	;	proton mag. shielding correction   	;	  25.691 10-6    	;	
+1269	;	proton mag. mom. to Bohr magneton rati0    	;	  1.521 032 2053 10-3    	;
+1270	;	proton mag. mom. to nuclear magneton ratio 	;	  2.792 847 3508 	;
+1271	;	proton mag. shielding correction   	;	  25.691 10-6    	;
 1272	;	proton mass    	;	  1.672 621 898 10-27    	;	  kg
 1273	;	proton mass energy equivalent  	;	  1.503 277 593 10-10    	;	  J
 1274	;	proton mass energy equivalent in MeV   	;	  938.272 0813   	;	  MeV
 1275	;	proton mass in u   	;	  1.007 276 466 879  	;	  u
 1276	;	proton molar mass  	;	  1.007 276 466 879 10-3 	;	  kg mol^-1
-1277	;	proton-muon mass ratio 	;	  8.880 243 38   	;	
-1278	;	proton-neutron mag. mom. ratio 	;	  -1.459 898 05  	;	
-1279	;	proton-neutron mass ratio  	;	  0.998 623 478 44   	;	
+1277	;	proton-muon mass ratio 	;	  8.880 243 38   	;
+1278	;	proton-neutron mag. mom. ratio 	;	  -1.459 898 05  	;
+1279	;	proton-neutron mass ratio  	;	  0.998 623 478 44   	;
 1280	;	proton rms charge radius   	;	  0.8751 10-15   	;	  m
-1281	;	proton-tau mass ratio  	;	  0.528 063  	;	
+1281	;	proton-tau mass ratio  	;	  0.528 063  	;
 1282	;	quantum of circulation 	;	  3.636 947 5486 10-4    	;	  m^2 s^-1
 1283	;	quantum of circulation times 2 	;	  7.273 895 0972 10-4    	;	  m^2 s^-1
 1284	;	Rydberg constant   	;	  10 973 731.568 508 	;	  m^-1
 1285	;	Rydberg constant times c in Hz 	;	  3.289 841 960 355 1015 	;	  Hz
 1286	;	Rydberg constant times hc in eV    	;	  13.605 693 009 	;	  eV
 1287	;	Rydberg constant times hc in J 	;	  2.179 872 325 10-18    	;	  J
-1288	;	Sackur-Tetrode constant (1 K, 100 kPa) 	;	  -1.151 7084    	;	
-1289	;	Sackur-Tetrode constant (1 K, 101.325kPa)  	;	  -1.164 8714    	;	
+1288	;	Sackur-Tetrode constant (1 K, 100 kPa) 	;	  -1.151 7084    	;
+1289	;	Sackur-Tetrode constant (1 K, 101.325kPa)  	;	  -1.164 8714    	;
 1290	;	second radiation constant  	;	  1.438 777 36 10-2  	;	  m K
 1291	;	shielded helion gyromag. ratio 	;	  2.037 894 585 108  	;	  s^-1 T^-1
 1292	;	shielded helion gyromag. ratio over 2pi    	;	  32.434 099 66  	;	  MHz T^-1
 1293	;	shielded helion mag. mom.  	;	  -1.074 553 080 10-26   	;	  J T^-1
-1294	;	shielded helion mag. mom. to Bohr magneton ratio   	;	  -1.158 671 471 10-3    	;	
-1295	;	shielded helion mag. mom. to nuclear magneton ratio    	;	  -2.127 497 720 	;	
-1296	;	shielded helion to proton mag. mom. Ratio  	;	  -0.761 766 5603    	;	
-1297	;	shielded helion to shielded proton mag. mom. Ratio 	;	  -0.761 786 1313    	;	
+1294	;	shielded helion mag. mom. to Bohr magneton ratio   	;	  -1.158 671 471 10-3    	;
+1295	;	shielded helion mag. mom. to nuclear magneton ratio    	;	  -2.127 497 720 	;
+1296	;	shielded helion to proton mag. mom. Ratio  	;	  -0.761 766 5603    	;
+1297	;	shielded helion to shielded proton mag. mom. Ratio 	;	  -0.761 786 1313    	;
 1298	;	shielded proton gyromag. ratio 	;	  2.675 153 171 108  	;	  s^-1 T^-1
 1299	;	shielded proton gyromag. ratio over 2pi    	;	  42.576 385 07  	;	  MHz T^-1
 1300	;	shielded proton mag. mom.  	;	  1.410 570 547 10-26    	;	  J T^-1
-1301	;	shielded proton mag. mom. to Bohr magneton ratio   	;	  1.520 993 128 10-3 	;	
-1302	;	shielded proton mag. mom. to nuclear magneton ratio    	;	  2.792 775 600  	;	
+1301	;	shielded proton mag. mom. to Bohr magneton ratio   	;	  1.520 993 128 10-3 	;
+1302	;	shielded proton mag. mom. to nuclear magneton ratio    	;	  2.792 775 600  	;
 1303	;	speed of light in vacuum   	;	  299 792 458    	;	  m s^-1
 1304	;	standard acceleration of gravity   	;	  9.806 65   	;	  m s^-2
 1305	;	standard atmosphere    	;	  101 325    	;	  Pa
@@ -307,29 +307,29 @@
 1307	;	Stefan-Boltzmann constant  	;	  5.670 367 10-8 	;	  W m^-2 K^-4
 1308	;	tau Compton wavelength 	;	  0.697 787 10-15    	;	  m
 1309	;	tau Compton wavelength over 2 pi   	;	  0.111 056 10-15    	;	  m
-1310	;	tau-electron mass ratio    	;	3477.15	;	
+1310	;	tau-electron mass ratio    	;	3477.15	;
 1311	;	tau mass   	;	  3.167 47 10-27 	;	  kg
 1312	;	tau mass energy equivalent 	;	  2.846 78 10-10 	;	  J
 1313	;	tau mass energy equivalent in MeV  	;	1776.82	;	  MeV
 1314	;	tau mass in u  	;	  1.907 49   	;	  u
 1315	;	tau molar mass 	;	  1.907 49 10-3  	;	  kg mol^-1
-1316	;	tau-muon mass ratio    	;	16.8167	;	
-1317	;	tau-neutron mass ratio 	;	  1.891 11   	;	
-1318	;	tau-proton mass ratio  	;	  1.893 72   	;	
+1316	;	tau-muon mass ratio    	;	16.8167	;
+1317	;	tau-neutron mass ratio 	;	  1.891 11   	;
+1318	;	tau-proton mass ratio  	;	  1.893 72   	;
 1319	;	Thomson cross section  	;	  0.665 245 871 58 10-28 	;	  m^2
-1320	;	triton-electron mass ratio 	;	  5496.921 535 88    	;	
-1321	;	triton g factor    	;	  5.957 924 920  	;	
+1320	;	triton-electron mass ratio 	;	  5496.921 535 88    	;
+1321	;	triton g factor    	;	  5.957 924 920  	;
 1322	;	triton mag. mom.   	;	  1.504 609 503 10-26    	;	  J T^-1
-1323	;	triton mag. mom. to Bohr magneton ratio    	;	  1.622 393 6616 10-3    	;	
-1324	;	triton mag. mom. to nuclear magneton ratio 	;	  2.978 962 460  	;	
+1323	;	triton mag. mom. to Bohr magneton ratio    	;	  1.622 393 6616 10-3    	;
+1324	;	triton mag. mom. to nuclear magneton ratio 	;	  2.978 962 460  	;
 1325	;	triton mass    	;	  5.007 356 665 10-27    	;	  kg
 1326	;	triton mass energy equivalent  	;	  4.500 387 735 10-10    	;	  J
 1327	;	triton mass energy equivalent in MeV   	;	  2808.921 112   	;	  MeV
 1328	;	triton mass in u   	;	  3.015 500 716 32   	;	  u
 1329	;	triton molar mass  	;	  3.015 500 716 32 10-3  	;	  kg mol^-1
-1330	;	triton-proton mass ratio   	;	  2.993 717 033 48   	;	
+1330	;	triton-proton mass ratio   	;	  2.993 717 033 48   	;
 1331	;	unified atomic mass unit   	;	  1.660 539 040 10-27    	;	  kg
 1332	;	von Klitzing constant  	;	  25 812.807 4555    	;	  ohm
-1333	;	weak mixing angle  	;	0.2223	;	
+1333	;	weak mixing angle  	;	0.2223	;
 1334	;	Wien frequency displacement law constant   	;	  5.878 9238 1010    	;	  Hz K^-1
 1335	;	Wien wavelength displacement law constant  	;	  2.897 7729 10-3    	;	  m K

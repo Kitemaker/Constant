@@ -10,55 +10,83 @@
     <TextView
         android:layout_width="fill_parent"
         android:layout_height="48dp"
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:id="@+id/textViewName"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:id="@+id/textLabelName"
         android:layout_gravity="center_horizontal"
         android:enabled="true"
-        android:background="#ffc3c0ff"
+
         android:singleLine="true"
         android:textColor="@android:color/white"
-        android:text="sssss"
-        android:textAlignment="center"
-        android:textStyle="bold" />
+        android:text="@string/textLabelName"
+
+        android:clickable="true"
+        android:background="@android:color/holo_blue_dark"
+        android:gravity="center_vertical" />
 
     <TextView
         android:layout_width="fill_parent"
-        android:layout_height="36dp"
+        android:layout_height="60dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:id="@+id/textViewName"
+        android:background="@android:color/white"
+        android:singleLine="false"
+        android:textColor="@android:color/black"
+        android:text="sssss"
+        style="@style/Base.Widget.AppCompat.TextView.SpinnerItem"
+        android:gravity="center_vertical" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="48dp"
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:text="@string/textLabelValue"
         android:id="@+id/textLabelValue"
         android:layout_gravity="center_horizontal"
-        android:background="#ffdad7ff"
-        android:textColor="@android:color/black" />
+
+        android:textColor="@android:color/white"
+        style="@style/Base.Widget.AppCompat.TextView.SpinnerItem"
+        android:gravity="center_vertical"
+        android:elegantTextHeight="false"
+        android:background="@android:color/holo_blue_dark" />
 
     <TextView
         android:layout_width="fill_parent"
-        android:layout_height="36dp"
+        android:layout_height="60dp"
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:text="Medium Text"
         android:id="@+id/textViewValue"
         android:layout_gravity="top|center_horizontal"
         android:background="@android:color/white"
-        android:textColor="@android:color/black" />
+        android:textColor="@android:color/black"
+        android:textAlignment="center"
+        style="@style/Base.Widget.AppCompat.TextView.SpinnerItem"
+        android:gravity="center_vertical" />
 
     <TextView
         android:layout_width="fill_parent"
-        android:layout_height="36dp"
+        android:layout_height="48dp"
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:text="@string/textLabelUnit"
         android:id="@+id/textLabelUnit"
         android:layout_gravity="right"
-        android:background="#ffdad7ff"
-        android:textColor="@android:color/black" />
+        android:textAlignment="gravity"
+
+        android:textColor="@android:color/white"
+        style="@style/Base.Widget.AppCompat.TextView.SpinnerItem"
+        android:gravity="center_vertical"
+        android:background="@android:color/holo_blue_dark" />
 
     <TextView
         android:layout_width="fill_parent"
-        android:layout_height="36dp"
+        android:layout_height="60dp"
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:text="Medium Text"
+        android:textAlignment="center"
         android:id="@+id/textViewUnit"
         android:layout_gravity="center_horizontal"
         android:background="@android:color/white"
-        android:textColor="@android:color/black" />
+        android:textColor="@android:color/black"
+        style="@style/Base.Widget.AppCompat.TextView.SpinnerItem"
+        android:gravity="center_vertical" />
 
 </LinearLayout>

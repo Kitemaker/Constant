@@ -12,6 +12,9 @@
         android:id="@android:id/list"
         android:layout_alignParentTop="true"
         android:layout_alignParentStart="true"
-        android:choiceMode="singleChoice" />
+        android:choiceMode="singleChoice"
+        android:drawSelectorOnTop="false"
+        android:divider="@android:color/holo_blue_dark"
+        android:dividerHeight="1dp" />
 
 </RelativeLayout>

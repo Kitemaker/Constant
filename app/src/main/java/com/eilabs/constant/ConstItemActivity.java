@@ -1,8 +1,9 @@
 package com.eilabs.constant;
 
 import android.content.Intent;
-import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
+import android.support.v7.app.ActionBarActivity;
+import android.text.Html;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.TextView;
@@ -27,9 +28,9 @@ public class ConstItemActivity extends ActionBarActivity {
         String[] itemData=itemDetails.split(";");
         if(itemData.length>3)
         {
-        tview1.setText(itemData[1]);
-        tview2.setText(itemData[2]);
-        tview3.setText(itemData[3]);
+        tview1.setText(Html.fromHtml(itemData[1]));
+        tview2.setText(Html.fromHtml(itemData[2]));
+        tview3.setText(Html.fromHtml(itemData[3]));
         }
     }
 
