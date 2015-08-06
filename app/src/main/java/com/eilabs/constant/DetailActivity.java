@@ -113,9 +113,7 @@ public class DetailActivity extends ActionBarActivity {
         //search action code
         MenuInflater inflater=getMenuInflater();
         inflater.inflate(R.menu.menu_detail,menu);
-       // SearchManager searchManager=(SearchManager)getSystemService(Context.SEARCH_SERVICE);
-      //  SearchView searchView=(SearchView)menu.findItem(R.id.search).getActionView();
-      //  searchView.setSearchableInfo(searchManager.getSearchableInfo(getComponentName()));
+
 
         return true;
     }

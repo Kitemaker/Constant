@@ -14,7 +14,7 @@
         android:id="@+id/textLabelName"
         android:layout_gravity="center_horizontal"
         android:enabled="true"
-
+        android:paddingLeft="@dimen/activity_text_left_margin"
         android:singleLine="true"
         android:textColor="@android:color/white"
         android:text="@string/textLabelName"
@@ -31,6 +31,7 @@
         android:singleLine="false"
         android:textColor="@android:color/black"
         android:text="sssss"
+        android:paddingLeft="@dimen/activity_text_left_margin"
 
         android:gravity="center_vertical" />
 
@@ -42,7 +43,7 @@
         android:id="@+id/textLabelValue"
         android:layout_gravity="center_horizontal"
         android:textColor="@android:color/white"
-
+        android:paddingLeft="@dimen/activity_text_left_margin"
         android:gravity="center_vertical"
         android:elegantTextHeight="false"
         android:background="@android:color/holo_blue_dark" />
@@ -57,7 +58,7 @@
         android:background="@android:color/white"
         android:textColor="@android:color/black"
         android:textAlignment="center"
-
+        android:paddingLeft="@dimen/activity_text_left_margin"
         android:gravity="center_vertical" />
 
     <TextView
@@ -68,7 +69,7 @@
         android:id="@+id/textLabelUnit"
         android:layout_gravity="right"
         android:textAlignment="gravity"
-
+        android:paddingLeft="@dimen/activity_text_left_margin"
         android:textColor="@android:color/white"
         android:gravity="center_vertical"
         android:background="@android:color/holo_blue_dark" />
@@ -83,6 +84,7 @@
         android:layout_gravity="center_horizontal"
         android:background="@android:color/white"
         android:textColor="@android:color/black"
+        android:paddingLeft="@dimen/activity_text_left_margin"
         android:gravity="center_vertical" />
 
 </LinearLayout>

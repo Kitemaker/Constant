@@ -13,13 +13,13 @@ import android.widget.Toast;
 
 
 public class ElementDetailActivity extends ActionBarActivity {
-
+    protected String itemDetails;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_element_detail);
         Intent intent = getIntent();
-        String itemDetails = intent.getStringExtra(DetailActivity.EXTRA_MESSAGE_DETAIL);
+        itemDetails = intent.getStringExtra(DetailActivity.EXTRA_MESSAGE_DETAIL);
         setElementDetails(itemDetails);
     }
 
@@ -83,4 +83,11 @@ public class ElementDetailActivity extends ActionBarActivity {
 
     }
 
+    public void onShareClick(MenuItem item) {
+        Intent i=new Intent(android.content.Intent.ACTION_SEND);
+        i.setType("text/plain");
+        i.putExtra(android.content.Intent.EXTRA_SUBJECT,"Subject test");
+        i.putExtra(android.content.Intent.EXTRA_TEXT, itemDetails);
+        startActivity(Intent.createChooser(i,"Share via"));
+    }
 }

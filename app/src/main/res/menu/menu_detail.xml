@@ -2,15 +2,13 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     tools:context="com.eilabs.constant.DetailActivity">
+
+
     <item
         android:id="@id/icon"
         android:icon="@mipmap/ic_launcher"
         tools:ignore="MenuTitle"
-        tools:showAsAction="always" />
-    <item
-        android:id="@+id/search"
-        android:icon="@drawable/ic_search"
-        tools:ignore="MenuTitle"
-        android:actionViewClass="android.widget.SearchView"
-        tools:showAsAction="collapseActionView|always" />
+        app:showAsAction="always" />
+
+
 </menu>

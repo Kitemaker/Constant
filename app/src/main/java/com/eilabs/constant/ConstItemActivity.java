@@ -11,13 +11,13 @@ import android.widget.TextView;
 
 
 public class ConstItemActivity extends ActionBarActivity {
-
+protected String itemDetails;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_const_item);
         Intent intent = getIntent();
-        String itemDetails = intent.getStringExtra(DetailActivity.EXTRA_MESSAGE_DETAIL);
+        itemDetails = intent.getStringExtra(DetailActivity.EXTRA_MESSAGE_DETAIL);
         setItemDetails(itemDetails);
     }
 
@@ -56,5 +56,17 @@ public class ConstItemActivity extends ActionBarActivity {
                 return true;
         }
         return super.onOptionsItemSelected(item);
+    }
+
+    public void onShareClick(MenuItem item) {
+        final Intent intent = new Intent(Intent.ACTION_SEND);
+        intent.setType("text/plain");
+        intent.putExtra(Intent.EXTRA_TEXT, itemDetails);
+
+        try {
+            startActivity(Intent.createChooser(intent, "Share Via"));
+        } catch (android.content.ActivityNotFoundException ex) {
+            // (handle error)
+        }
     }
 }
