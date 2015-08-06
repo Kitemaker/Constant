@@ -38,9 +38,7 @@ public class MainActivity extends ActionBarActivity {
         int id = item.getItemId();
 
         //noinspection SimplifiableIfStatement
-        if (id == R.id.action_settings) {
-            return true;
-        }
+
 
         return super.onOptionsItemSelected(item);
     }
@@ -50,6 +48,24 @@ public class MainActivity extends ActionBarActivity {
     {
         Intent intent =new Intent(this,DetailActivity.class);
         String message = getString(R.string.action_physics);
+        intent.putExtra(EXTRA_MESSAGE, message);
+        startActivity(intent);
+
+    }
+    public void btnChemistryClicked(View view)
+
+    {
+        Intent intent =new Intent(this,DetailActivity.class);
+        String message = getString(R.string.action_periodicTable);
+        intent.putExtra(EXTRA_MESSAGE, getString(R.string.action_periodicTable));
+        startActivity(intent);
+
+    }
+    public void btnMathsClicked(View view)
+
+    {
+        Intent intent =new Intent(this,DetailActivity.class);
+        String message = getString(R.string.action_maths);
         intent.putExtra(EXTRA_MESSAGE, message);
         startActivity(intent);
 

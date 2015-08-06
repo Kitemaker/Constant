@@ -1,0 +1,16 @@
+2001; Archimedes' constant ;3.141 592 653 589 793 238 462 643;None
+2002;Euler number, Napier's constant; 2.718 281 828 459 045 235 360 287;None 
+2003;Euler-Mascheroni constant; 0.577 215 664 901 532 860 606 ;None 
+2004; Pythagora's constant; 1.414 213 562 373 095 048 801 688;None
+2005;Golden ratio; 1.618 033 988 749 894 848 204 586;None 
+2006;inverse golden ratio; 0.618 033 988 749 894 848 204 586 ;None
+2007;Silver ratio ;2.414 213 562 373 095 048 801 ;None
+2008;ln(2), Natural logarithm of 2; 0.693 147 180 559 945 309 417 232   ;None
+2009;log(2), Decadic logarithm of 2; 0.301 029 995 663 981 195 213 738;None
+2010;ln(10), Natural logarithm of 10; 2.302 585 092 994 045 684 017 991;None
+2011;ln2(10), Binary logarithm of 10; 3.321 928 094 887 362 347 870 319;None
+2012;log(e), Decadic logarithm of e; 0.434 294 481 903 251 827 651 128 ;None
+2013;ln2(e), Binary logarithm of e; 1.442 695 040 888 963 407 359 924;None
+2014; Apéry's constant ζ(3); 1.202 056 903 159 594 285 399 738;None
+2015; Artin's constant; 0.373 955 813 619 202 288 054 728;None
+2016; Bernstein's constant; β 0.280 169 499 023 869 133 036 436;None

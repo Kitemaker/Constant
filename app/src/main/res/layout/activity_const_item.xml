@@ -18,7 +18,6 @@
         android:singleLine="true"
         android:textColor="@android:color/white"
         android:text="@string/textLabelName"
-
         android:clickable="true"
         android:background="@android:color/holo_blue_dark"
         android:gravity="center_vertical" />
@@ -32,7 +31,7 @@
         android:singleLine="false"
         android:textColor="@android:color/black"
         android:text="sssss"
-        style="@style/Base.Widget.AppCompat.TextView.SpinnerItem"
+
         android:gravity="center_vertical" />
 
     <TextView
@@ -42,9 +41,8 @@
         android:text="@string/textLabelValue"
         android:id="@+id/textLabelValue"
         android:layout_gravity="center_horizontal"
-
         android:textColor="@android:color/white"
-        style="@style/Base.Widget.AppCompat.TextView.SpinnerItem"
+
         android:gravity="center_vertical"
         android:elegantTextHeight="false"
         android:background="@android:color/holo_blue_dark" />
@@ -59,7 +57,7 @@
         android:background="@android:color/white"
         android:textColor="@android:color/black"
         android:textAlignment="center"
-        style="@style/Base.Widget.AppCompat.TextView.SpinnerItem"
+
         android:gravity="center_vertical" />
 
     <TextView
@@ -72,7 +70,6 @@
         android:textAlignment="gravity"
 
         android:textColor="@android:color/white"
-        style="@style/Base.Widget.AppCompat.TextView.SpinnerItem"
         android:gravity="center_vertical"
         android:background="@android:color/holo_blue_dark" />
 
@@ -86,7 +83,6 @@
         android:layout_gravity="center_horizontal"
         android:background="@android:color/white"
         android:textColor="@android:color/black"
-        style="@style/Base.Widget.AppCompat.TextView.SpinnerItem"
         android:gravity="center_vertical" />
 
 </LinearLayout>

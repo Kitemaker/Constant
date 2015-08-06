@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- suppress ALL -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.eilabs.constant">
+    package="com.eilabs.constant" >
+
+    <uses-sdk android:maxSdkVersion="11" />
 
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
-        android:theme="@style/AppTheme">
+        android:theme="@style/AppTheme" >
         <activity
             android:name=".MainActivity"
-            android:label="@string/app_name">
+            android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -19,18 +22,33 @@
         <activity
             android:name=".DetailActivity"
             android:label="@string/title_activity_detail"
-            android:parentActivityName=".MainActivity">
+            android:parentActivityName=".MainActivity" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.eilabs.constant.MainActivity" />
+
         </activity>
         <activity
             android:name=".ConstItemActivity"
-            android:label="@string/title_activity_const_detail"
-            android:parentActivityName=".DetailActivity">
+            android:label="@string/app_name"
+            android:parentActivityName=".DetailActivity" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.eilabs.constant.DetailActivity" />
+        </activity>
+        <activity
+            android:name=".ElementDetailActivity"
+            android:label="@string/label_Element" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.eilabs.constant.DetailActivity" />
+        </activity>
+        <activity
+            android:name=".SearchResultsActivity"
+            android:label="@string/title_activity_search_results" >
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH"/>
+            </intent-filter>
         </activity>
     </application>
 

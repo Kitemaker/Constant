@@ -1,12 +1,10 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.eilabs.constant.ConstItemActivity">
+    tools:context="com.eilabs.constant.ElementDetailActivity">
     <item
         android:id="@id/icon"
         android:icon="@mipmap/ic_launcher"
         app:showAsAction="always"
         tools:ignore="MenuTitle" />
-
-
 </menu>

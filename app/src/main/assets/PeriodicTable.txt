@@ -1,0 +1,118 @@
+3001	;	1	;	H	;	Hydrogen	;	composed of the Greekelements hydro- and -genmeaning 'water-forming'	;	1	;	1.0082	;	14.01	;	20.28	;	14.304
+3002	;	2	;	He	;	Helium	;	the Greek helios, 'sun'	;	1	;	4.002602	;	0.956	;	4.22	;	5.193
+3003	;	3	;	Li	;	Lithium	;	the Greek lithos, 'stone'	;	2	;	6.942	;	453.69	;	1560	;	3.582
+3004	;	4	;	Be	;	Beryllium	;	beryl, a mineral	;	2	;	9.012182	;	1560	;	2742	;	1.825
+3005	;	5	;	B	;	Boron	;	borax, a mineral	;	2	;	10.812	;	2349	;	4200	;	1.026
+3006	;	6	;	C	;	Carbon	;	the Latin carbo, 'charcoal'	;	2	;	12.0112	;	3800	;	4300	;	0.709
+3007	;	7	;	N	;	Nitrogen	;	the Greek nitron and '-gen' meaning 'niter-forming'	;	2	;	14.0072	;	63.15	;	77.36	;	1.04
+3008	;	8	;	O	;	Oxygen	;	from the Greek oxy-, both 'sharp' and 'acid', and -gen, meaning 'acid-forming'	;	2	;	15.9992	;	54.36	;	90.2	;	0.918
+3009	;	9	;	F	;	Fluorine	;	the Latin fluere, 'to flow'	;	2	;	18.998403	;	53.53	;	85.03	;	0.824
+3010	;	10	;	Ne	;	Neon	;	the Greek neos, meaning 'new'	;	2	;	20.1797	;	24.56	;	27.07	;	1.03
+3011	;	11	;	Na	;	Sodium	;	the English word soda(natrium in Latin)[3]	;	3	;	22.9897692	;	370.87	;	1156	;	1.228
+3012	;	12	;	Mg	;	Magnesium	;	Magnesia, a district of Eastern Thessaly in Greece	;	3	;	24.3059	;	923	;	1363	;	1.023
+3013	;	13	;	Al	;	Aluminium	;	from alumina, a compound (originally aluminum)	;	3	;	26.9815386	;	933.47	;	2792	;	0.897
+3014	;	14	;	Si	;	Silicon	;	from the Latin silex, 'flint' (originally silicium)	;	3	;	28.0854	;	1687	;	3538	;	0.705
+3015	;	15	;	P	;	Phosphorus	;	the Greek phoosphoros, 'carrying light'	;	3	;	30.973762	;	317.3	;	550	;	0.769
+3016	;	16	;	S	;	Sulfur	;	Latin sulphur, 'sulfur'	;	3	;	32.062	;	388.36	;	717.87	;	0.71
+3017	;	17	;	Cl	;	Chlorine	;	the Greek chloros, 'greenish yellow'	;	3	;	35.452	;	171.6	;	239.11	;	0.479
+3018	;	18	;	Ar	;	Argon	;	the Greek argos, 'idle'	;	3	;	39.948	;	83.8	;	87.3	;	0.52
+3019	;	19	;	K	;	Potassium	;	New Latin potassa, 'potash' (kalium in Latin)[3]	;	4	;	39.098	;	336.53	;	1032	;	0.757
+3020	;	20	;	Ca	;	Calcium	;	the Latin calx, 'lime'	;	4	;	40.078	;	1115	;	1757	;	0.647
+3021	;	21	;	Sc	;	Scandium	;	Scandia, the Latin name forScandinavia	;	4	;	44.95591	;	1814	;	3109	;	0.568
+3022	;	22	;	Ti	;	Titanium	;	Titans, the sons of the Earth goddess of Greek mythology	;	4	;	47.867	;	1941	;	3560	;	0.523
+3023	;	23	;	V	;	Vanadium	;	Vanadis, an old Norse name for the Scandinavian goddessFreyja	;	4	;	50.9415	;	2183	;	3680	;	0.489
+3024	;	24	;	Cr	;	Chromium	;	the Greek chroma, 'color'	;	4	;	51.9961	;	2180	;	2944	;	0.449
+3025	;	25	;	Mn	;	Manganese	;	corrupted from magnesia negra, see Magnesium	;	4	;	54.938045	;	1519	;	2334	;	0.479
+3026	;	26	;	Fe	;	Iron	;	English word (ferrum in Latin)	;	4	;	55.845	;	1811	;	3134	;	0.449
+3027	;	27	;	Co	;	Cobalt	;	the German word Kobold, 'goblin'	;	4	;	58.933195	;	1768	;	3200	;	0.421
+3028	;	28	;	Ni	;	Nickel	;	from Swedish kopparnickel, containing the German wordNickel, 'goblin'	;	4	;	58.6934	;	1728	;	3186	;	0.444
+3029	;	29	;	Cu	;	Copper	;	English word (Latin cuprum)	;	4	;	63.546	;	1357.7	;	2835	;	0.385
+3030	;	30	;	Zn	;	Zinc	;	the German Zink	;	4	;	65.38	;	692.88	;	1180	;	0.388
+3031	;	31	;	Ga	;	Gallium	;	Gallia, the Latin name forFrance	;	4	;	69.723	;	302.9146	;	2477	;	0.371
+3032	;	32	;	Ge	;	Germanium	;	Germania, the Latin name forGermany	;	4	;	72.63	;	1211.4	;	3106	;	0.32
+3033	;	33	;	As	;	Arsenic	;	English word (Latinarsenicum)	;	4	;	74.9216	;	1090	;	887	;	0.329
+3034	;	34	;	Se	;	Selenium	;	the Greek selene, 'moon'	;	4	;	78.96	;	453	;	958	;	0.321
+3035	;	35	;	Br	;	Bromine	;	the Greek bromos, 'stench'	;	4	;	79.9049	;	265.8	;	332	;	0.474
+3036	;	36	;	Kr	;	Krypton	;	the Greek kryptos, 'hidden'	;	4	;	83.798	;	115.79	;	119.93	;	0.248
+3037	;	37	;	Rb	;	Rubidium	;	the Latin rubidus, 'deep red'	;	5	;	85.4678	;	312.46	;	961	;	0.363
+3038	;	38	;	Sr	;	Strontium	;	Strontian, a small town inScotland	;	5	;	87.62	;	1050	;	1655	;	0.301
+3039	;	39	;	Y	;	Yttrium	;	Ytterby, Sweden	;	5	;	88.9058	;	1799	;	3609	;	0.298
+3040	;	40	;	Zr	;	Zirconium	;	German Zirkoon, 'jargoon'	;	5	;	91.224	;	2128	;	4682	;	0.278
+3041	;	41	;	Nb	;	Niobium	;	Niobe, daughter of kingTantalus from Greek mythology	;	5	;	92.90638	;	2750	;	5017	;	0.265
+3042	;	42	;	Mo	;	Molybdenum	;	the Greek molybdos meaning 'lead'	;	5	;	95.96	;	2896	;	4912	;	0.251
+3043	;	43	;	Tc	;	Technetium	;	the Greek tekhnètos meaning 'artificial'	;	5	;	98	;	2430	;	4538	;	NA
+3044	;	44	;	Ru	;	Ruthenium	;	Ruthenia, the New Latinname for Russia	;	5	;	101.07	;	2607	;	4423	;	0.238
+3045	;	45	;	Rh	;	Rhodium	;	the Greek rhodos, meaning 'rose coloured'	;	5	;	102.9055	;	2237	;	3968	;	0.243
+3046	;	46	;	Pd	;	Palladium	;	the then recently discovered asteroid Pallas, considered a planet at the time	;	5	;	106.42	;	1828.05	;	3236	;	0.244
+3047	;	47	;	Ag	;	Silver	;	English word (argentum in Latin)[3]	;	5	;	107.8682	;	1234.93	;	2435	;	0.235
+3048	;	48	;	Cd	;	Cadmium	;	the New Latin cadmia, from King Kadmos	;	5	;	112.411	;	594.22	;	1040	;	0.232
+3049	;	49	;	In	;	Indium	;	indigo	;	5	;	114.818	;	429.75	;	2345	;	0.233
+3050	;	50	;	Sn	;	Tin	;	English word (stannum in Latin)	;	5	;	118.71	;	505.08	;	2875	;	0.228
+3051	;	51	;	Sb	;	Antimony	;	composed from the Greekanti, 'against', and monos, 'alone' (stibium in Latin)	;	5	;	121.76	;	903.78	;	1860	;	0.207
+3052	;	52	;	Te	;	Tellurium	;	Latin tellus, 'earth'	;	5	;	127.6	;	722.66	;	1261	;	0.202
+3053	;	53	;	I	;	Iodine	;	French iode (after the Greekioeides, 'violet')	;	5	;	126.9044	;	386.85	;	457.4	;	0.214
+3054	;	54	;	Xe	;	Xenon	;	the Greek xenos, 'strange'	;	5	;	131.29	;	161.4	;	165.03	;	0.158
+3055	;	55	;	Cs	;	Caesium	;	the Latin caesius, 'sky blue'	;	6	;	132.905451	;	301.59	;	944	;	0.242
+3056	;	56	;	Ba	;	Barium	;	the Greek barys, 'heavy'	;	6	;	137.327	;	1000	;	2170	;	0.204
+3057	;	57	;	La	;	Lanthanum	;	the Greek lanthanein, 'to lie hidden'	;	6	;	138.90547	;	1193	;	3737	;	0.195
+3058	;	58	;	Ce	;	Cerium	;	the then recently discovered asteroid Ceres, considered a planet at the time	;	6	;	140.116	;	1068	;	3716	;	0.192
+3059	;	59	;	Pr	;	Praseodymium	;	the Greek praseios didymosmeaning 'green twin'	;	6	;	140.90765	;	1208	;	3793	;	0.193
+3060	;	60	;	Nd	;	Neodymium	;	the Greek neos didymosmeaning 'new twin'	;	6	;	144.242	;	1297	;	3347	;	0.19
+3061	;	61	;	Pm	;	Promethium	;	Prometheus of Greek mythology who stole fire from the Gods and gave it to humans	;	6	;	145	;	1315	;	3273	;	NA
+3062	;	62	;	Sm	;	Samarium	;	Samarskite, the name of the mineral from which it was first isolated	;	6	;	150.36	;	1345	;	2067	;	0.197
+3063	;	63	;	Eu	;	Europium	;	Europe	;	6	;	151.964	;	1099	;	1802	;	0.182
+3064	;	64	;	Gd	;	Gadolinium	;	Johan Gadolin, chemist, physicist and mineralogist	;	6	;	157.25	;	1585	;	3546	;	0.236
+3065	;	65	;	Tb	;	Terbium	;	Ytterby, Sweden	;	6	;	158.9253	;	1629	;	3503	;	0.182
+3066	;	66	;	Dy	;	Dysprosium	;	the Greek dysprositos, 'hard to get'	;	6	;	162.5	;	1680	;	2840	;	0.17
+3067	;	67	;	Ho	;	Holmium	;	Holmia, the New Latin name for Stockholm	;	6	;	164.93032	;	1734	;	2993	;	0.165
+3068	;	68	;	Er	;	Erbium	;	Ytterby, Sweden	;	6	;	167.259	;	1802	;	3141	;	0.168
+3069	;	69	;	Tm	;	Thulium	;	Thule, the ancient name for Scandinavia	;	6	;	168.9342	;	1818	;	2223	;	0.16
+3070	;	70	;	Yb	;	Ytterbium	;	Ytterby, Sweden	;	6	;	173.054	;	1097	;	1469	;	0.155
+3071	;	71	;	Lu	;	Lutetium	;	Lutetia, the Latin name forParis	;	6	;	174.9668	;	1925	;	3675	;	0.154
+3072	;	72	;	Hf	;	Hafnium	;	Hafnia, the New Latin name for Copenhagen	;	6	;	178.49	;	2506	;	4876	;	0.144
+3073	;	73	;	Ta	;	Tantalum	;	King Tantalus, father of Niobe from Greek mythology	;	6	;	180.94788	;	3290	;	5731	;	0.14
+3074	;	74	;	W	;	Tungsten	;	the Swedish tung sten, 'heavy stone' (W is wolfram, the old name of the tungsten mineral wolframite)[3]	;	6	;	183.84	;	3695	;	5828	;	0.132
+3075	;	75	;	Re	;	Rhenium	;	Rhenus, the Latin name for the river Rhine	;	6	;	186.207	;	3459	;	5869	;	0.137
+3076	;	76	;	Os	;	Osmium	;	the Greek osmè, meaning 'smell'	;	6	;	190.23	;	3306	;	5285	;	0.13
+3077	;	77	;	Ir	;	Iridium	;	Iris, the Greek goddess of the rainbow	;	6	;	192.217	;	2719	;	4701	;	0.131
+3078	;	78	;	Pt	;	Platinum	;	the Spanish platina, meaning 'little silver'	;	6	;	195.08	;	2041.4	;	4098	;	0.133
+3079	;	79	;	Au	;	Gold	;	English word (aurum in Latin)	;	6	;	196.96656	;	1337.33	;	3129	;	0.129
+3080	;	80	;	Hg	;	Mercury	;	the New Latin namemercurius, named after theRoman god (Hg from former name hydrargyrum, from Greek hydr-, 'water', andargyros, 'silver')	;	6	;	200.592	;	234.43	;	629.88	;	0.14
+3081	;	81	;	Tl	;	Thallium	;	the Greek thallos, 'green twig'	;	6	;	204.389	;	577	;	1746	;	0.129
+3082	;	82	;	Pb	;	Lead	;	English word (plumbum in Latin)[3]	;	6	;	207.2	;	600.61	;	2022	;	0.129
+3083	;	83	;	Bi	;	Bismuth	;	German word, now obsolete	;	6	;	208.9804	;	544.7	;	1837	;	0.122
+3084	;	84	;	Po	;	Polonium	;	Polonia, the New Latin name for Poland	;	6	;	209	;	527	;	1235	;	NA
+3085	;	85	;	At	;	Astatine	;	the Greek astatos, 'unstable'	;	6	;	210	;	575	;	610	;	NA
+3086	;	86	;	Rn	;	Radon	;	From radium, as it was first detected as an emission from radium during radioactive decay	;	6	;	222	;	202	;	211.3	;	0.094
+3087	;	87	;	Fr	;	Francium	;	Francia, the New Latin name for France	;	7	;	223	;	300	;	950	;	NA
+3088	;	88	;	Ra	;	Radium	;	the Latin radius, 'ray'	;	7	;	226	;	973	;	2010	;	0.094
+3089	;	89	;	Ac	;	Actinium	;	the Greek aktis, 'ray'	;	7	;	227	;	1323	;	3471	;	0.12
+3090	;	90	;	Th	;	Thorium	;	Thor, the Scandinavian god of thunder	;	7	;	232.03806	;	2115	;	5061	;	0.113
+3091	;	91	;	Pa	;	Protactinium	;	the Greek protos, 'first', andactinium, which is produced through the radioactive decay of protactinium	;	7	;	231.03588	;	1841	;	4300	;	NA
+3092	;	92	;	U	;	Uranium	;	Uranus, the seventh planet in the Solar System	;	7	;	238.02891	;	1405.3	;	4404	;	0.116
+3093	;	93	;	Np	;	Neptunium	;	Neptune, the eighth planet in the Solar System	;	7	;	237	;	917	;	4273	;	NA
+3094	;	94	;	Pu	;	Plutonium	;	Pluto, a dwarf planet in the Solar System	;	7	;	244	;	912.5	;	3501	;	NA
+3095	;	95	;	Am	;	Americium	;	The Americas, as the element was first synthesized on the continent, by analogy with europium	;	7	;	243	;	1449	;	2880	;	NA
+3096	;	96	;	Cm	;	Curium	;	Pierre Curie, a physicist, andMarie Curie, a physicist and chemist, named after great scientists by analogy with gadolinium	;	7	;	247	;	1613	;	3383	;	NA
+3097	;	97	;	Bk	;	Berkelium	;	Berkeley, California, where the element was first synthesized, by analogy with terbium	;	7	;	247	;	1259	;	2900	;	NA
+3098	;	98	;	Cf	;	Californium	;	California, where the element was first synthesized	;	7	;	251	;	1173	;	1743	;	NA
+3099	;	99	;	Es	;	Einsteinium	;	Albert Einstein, physicist	;	7	;	252	;	1133	;	1269	;	NA
+3100	;	100	;	Fm	;	Fermium	;	Enrico Fermi, physicist	;	7	;	257	;	1125	;	NA	;	NA
+3101	;	101	;	Md	;	Mendelevium	;	Dmitri Mendeleev, chemist and inventor	;	7	;	258	;	1100	;	NA	;	NA
+3102	;	102	;	No	;	Nobelium	;	Alfred Nobel, chemist, engineer, innovator, and armaments manufacturer	;	7	;	259	;	1100	;	NA	;	NA
+3103	;	103	;	Lr	;	Lawrencium	;	Ernest O. Lawrence, physicist	;	7	;	266	;	1900	;	NA	;	NA
+3104	;	104	;	Rf	;	Rutherfordium	;	Ernest Rutherford, chemist and physicist	;	7	;	267	;	2400	;	5800	;	NA
+3105	;	105	;	Db	;	Dubnium	;	Dubna, Russia	;	7	;	268	;	NA	;	NA	;	NA
+3106	;	106	;	Sg	;	Seaborgium	;	Glenn T. Seaborg, scientist	;	7	;	269	;	NA	;	NA	;	NA
+3107	;	107	;	Bh	;	Bohrium	;	Niels Bohr, physicist	;	7	;	270	;	NA	;	NA	;	NA
+3108	;	108	;	Hs	;	Hassium	;	Hesse, Germany, where the element was first synthesized	;	7	;	269	;	NA	;	NA	;	NA
+3109	;	109	;	Mt	;	Meitnerium	;	Lise Meitner, physicist	;	7	;	278	;	NA	;	NA	;	NA
+3110	;	110	;	Ds	;	Darmstadtium	;	Darmstadt, Germany, where the element was first synthesized	;	7	;	281	;	NA	;	NA	;	NA
+3111	;	111	;	Rg	;	Roentgenium	;	Wilhelm Conrad Röntgen, physicist	;	7	;	281	;	NA	;	NA	;	NA
+3112	;	112	;	Cn	;	Copernicium	;	Nicolaus Copernicus, astronomer	;	7	;	285	;	NA	;	357	;	NA
+3113	;	113	;	Uut	;	Ununtrium	;	IUPAC systematic element name	;	7	;	286	;	700	;	1400	;	NA
+3114	;	114	;	Fl	;	Flerovium	;	Georgy Flyorov, physicist	;	7	;	289	;	340	;	420	;	NA
+3115	;	115	;	Uup	;	Ununpentium	;	IUPAC systematic element name	;	7	;	289	;	700	;	1400	;	NA
+3116	;	116	;	Lv	;	Livermorium	;	Lawrence Livermore National Laboratory (in Livermore, California) which collaborated with JINR on its synthesis	;	7	;	293	;	708.5	;	1085	;	NA
+3117	;	117	;	Uus	;	Ununseptium	;	IUPAC systematic element name	;	7	;	294	;	673	;	823	;	NA
+3118	;	118	;	Uuo	;	Ununoctium	;	IUPAC systematic element name	;	7	;	294	;	258	;	263	;	NA

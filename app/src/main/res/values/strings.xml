@@ -1,5 +1,6 @@
 <resources>
-    <string name="app_name">Constant</string>
+    <string name="app_name">Constant Box</string>
+    <string name="label_constants">Constants</string>
     <string name="hello_world">Select Subject</string>
     <string name="action_settings">Settings</string>
     <string name="action_physics">Physics</string>
@@ -10,4 +11,21 @@
     <string name="textLabelValue">Value</string>
     <string name="textLabelUnit">Unit</string>
     <string name="textLabelName">Constant Name</string>
+    <string name="action_periodicTable">Periodic Table</string>
+    <string name="label_atomicNr">Atomic Number</string>
+    <string name="label_Symbol">Symbol</string>
+    <string name="label_Element">Element</string>
+    <string name="label_Origin_of_Name">Origin of Name</string>
+    <string name="label_Group">Group</string>
+    <string name="label_period">Period</string>
+    <string name="label_atomic_weight">Atomic Weight</string>
+    <string name="label_density">Density (g/cm3)</string>
+    <string name="label_melting_point">Melting Point(K)</string>
+    <string name="label_boiling_Point">Boiling Point(K)</string>
+    <string name="label_specific_heat_capacity">Specific Heat Capacity(J/g-K)</string>
+    <string name="title_activity_element_detail">ElementDetailActivity</string>
+    <string name="label_atomic_number">Atomic Number</string>
+    <string name="action_search">search</string>
+    <string name="search_hint">searchHint</string>
+    <string name="title_activity_search_results">SearchResultsActivity</string>
 </resources>

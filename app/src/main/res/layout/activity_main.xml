@@ -25,12 +25,13 @@
     <Button
         android:layout_width="fill_parent"
         android:layout_height="60dp"
-        android:text="@string/action_chemistry"
+        android:text="@string/action_periodicTable"
         android:id="@+id/btnChem"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
         android:layout_centerVertical="true"
         android:background="@android:color/holo_blue_dark"
+        android:onClick="btnChemistryClicked"
         android:layout_marginTop="4dp"
         android:layout_marginBottom="4dp"
         android:textColor="@android:color/white" />
@@ -43,6 +44,7 @@
         android:layout_below="@+id/btnChem"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
+        android:onClick="btnMathsClicked"
         android:background="@android:color/holo_blue_dark"
         android:layout_marginTop="4dp"
         android:textColor="@android:color/white" />
