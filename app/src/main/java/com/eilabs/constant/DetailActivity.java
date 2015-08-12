@@ -89,7 +89,7 @@ public class DetailActivity extends ActionBarActivity {
                 });
             }
         } catch (Exception e) {
-            Log.e("DetailActivity", "onCreate");
+           // Log.e("DetailActivity", "onCreate");
         }
     }
 
@@ -165,7 +165,7 @@ public class DetailActivity extends ActionBarActivity {
             }
 
         } catch (IOException e) {
-            Log.e("tag", e.getMessage());
+         //   Log.e("tag", e.getMessage());
         }
 
     }

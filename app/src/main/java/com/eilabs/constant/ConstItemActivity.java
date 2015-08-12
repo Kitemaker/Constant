@@ -28,7 +28,7 @@ protected String itemDetails;
         TextView tview3 = (TextView)findViewById(R.id.textViewUnit);
         String[] itemData=itemDetails.split(";");
         if(itemData.length>3)
-        {Log.d("READ_HTML",itemData[1]+itemData[2]+itemData[3]);
+        {//Log.d("READ_HTML",itemData[1]+itemData[2]+itemData[3]);
         tview1.setText(Html.fromHtml(itemData[1]));
         tview2.setText(Html.fromHtml(itemData[2]));
         tview3.setText(Html.fromHtml(itemData[3]));
@@ -59,14 +59,24 @@ protected String itemDetails;
     }
 
     public void onShareClick(MenuItem item) {
+
+
         final Intent intent = new Intent(Intent.ACTION_SEND);
         intent.setType("text/plain");
-        intent.putExtra(Intent.EXTRA_TEXT, itemDetails);
+        String sharetext="";
+        String[] itemData=itemDetails.split(";");
+        if(itemData.length>3) {
+             sharetext = getString(R.string.textLabelName) + ":" + itemData[1] + "," +
+                    getString(R.string.textLabelValue) + ":" + itemData[2] + "," +
+                    getString(R.string.textLabelUnit) + ":" + itemData[3];
+        }
+
+        intent.putExtra(Intent.EXTRA_TEXT, sharetext);
 
         try {
             startActivity(Intent.createChooser(intent, "Share Via"));
         } catch (android.content.ActivityNotFoundException ex) {
-            // (handle error)
+          // Log.e("onShareClick",ex.getMessage());
         }
     }
 }

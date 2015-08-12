@@ -36,7 +36,7 @@ public class ConsSaxParser {
         }
         catch (java.io.IOException x)
         {
-            Log.e("ReadTextData", x.getMessage());
+           // Log.e("ReadTextData", x.getMessage());
         }
 
         return entries;
@@ -50,7 +50,7 @@ public class ConsSaxParser {
             String line = null;
             Integer location=0;
             while ((line = reader.readLine()) != null) {
-                Log.e("ReadElementData", line);
+               // Log.e("ReadElementData", line);
                 String[] list  = line.split(";");
                 if(list.length>8) {
                     elementsList.add(location, new Element(list[0], list[1]));
@@ -69,7 +69,7 @@ public class ConsSaxParser {
         }
         catch (java.io.IOException x)
         {
-            Log.e("ReadTextData", x.getMessage());
+           // Log.e("ReadTextData", x.getMessage());
         }
 
         return elementsList;

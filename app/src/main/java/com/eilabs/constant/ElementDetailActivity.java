@@ -38,9 +38,9 @@ public class ElementDetailActivity extends ActionBarActivity {
 
 
         String[] itemData=itemDetails.split(";");
-        if(itemData.length>3)
+        if(itemData.length>8)
         {
-            Log.d("READ_HTML", itemData[1] + itemData[2] + itemData[3]);
+          //  Log.d("READ_HTML", itemData[1] + itemData[2] + itemData[3]);
             tAtomicNr.setText(Html.fromHtml(itemData[1]));
             telement.setText(Html.fromHtml(itemData[2]) + "\t" + itemData[3]);
             tOriginOfName.setText(Html.fromHtml(itemData[4]));
@@ -86,8 +86,29 @@ public class ElementDetailActivity extends ActionBarActivity {
     public void onShareClick(MenuItem item) {
         Intent i=new Intent(android.content.Intent.ACTION_SEND);
         i.setType("text/plain");
+        String[] itemData=itemDetails.split(";");
+        String textToShare="";
+        if(itemData.length>8)
+        {
+            textToShare = getString(R.string.label_Element)+":"+ itemData[2] + "\t" + itemData[3]+","+
+            getString(R.string.label_atomic_number)+":"+ itemData[1]+","+
+            getString(R.string.label_Origin_of_Name)+":"+ itemData[4]+","+
+            getString(R.string.label_period)+":"+ itemData[5]+","+
+            getString(R.string.label_atomic_weight)+":"+ itemData[6]+","+
+            getString(R.string.label_melting_point)+":"+ itemData[7]+","+
+            getString(R.string.label_boiling_Point)+":"+ itemData[8]+","+
+            getString(R.string.label_specific_heat_capacity)+":"+ itemData[9]+",";
+        }
+
         i.putExtra(android.content.Intent.EXTRA_SUBJECT,"Subject test");
-        i.putExtra(android.content.Intent.EXTRA_TEXT, itemDetails);
+        i.putExtra(android.content.Intent.EXTRA_TEXT, textToShare);
+        try
+        {
         startActivity(Intent.createChooser(i,"Share via"));
+        }
+        catch (android.content.ActivityNotFoundException ex) {
+           // Log.e("onShareClick",ex.getMessage());
+        }
     }
 }
+
